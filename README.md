@@ -14,3 +14,6 @@ https://mongoosejs.com/
 
 Postman:
 https://web.postman.co/home
+
+Next TODO:
+Set up route files
